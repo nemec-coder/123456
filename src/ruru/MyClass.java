@@ -9,7 +9,9 @@ public class MyClass {
       System.out.println(Arrays.toString(arr)); // [5, 4, 3, 2, 1]
       reverse(arr);
       System.out.println(Arrays.toString(arr)); // [1, 2, 3, 4, 5]
-      // Добавляю комментарий.
+      System.out.println("Р”РµР»Р°СЋ РєРѕРјРјРёС‚!");
+      System.out.println("Р”РµР»Р°СЋ 22222 РєРѕРјРјРёС‚!");
+      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
    }
    public static void reverse(int[] arr) {
       int tmp = 0;
